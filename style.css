@@ -102,7 +102,7 @@ img {
 /*s Seconds */
 .arrows .second {
     width: 1px;
-    background-color: red;
+    background-color: goldenrod;
     transform: rotate(250deg);
 }
 
